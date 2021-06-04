@@ -1,0 +1,28 @@
+.LogoGoogle {
+  top: 30%;
+  right: 40%;
+  position: absolute;
+  height: 20px;
+}
+
+.CajaBusqueda {
+  top: 40%;
+  right: 40%;
+  border-radius: 15px;
+  border-style: blue solid;
+  height: 30px;
+  width: 500px;
+  position: absolute;
+}
+
+.Botones {
+  top: 50%;
+  right: 40%;
+  position: absolute;
+}
+
+.PieFondo {
+  bottom: 30px;
+  left: 100%;
+  position: absolute;
+}
